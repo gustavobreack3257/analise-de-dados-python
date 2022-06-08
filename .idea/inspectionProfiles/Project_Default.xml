@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.fotmat" />
+          <option value="float.isdigit" />
+          <option value="float.isupper" />
+          <option value="float.isalpha" />
+          <option value="float.isalnum" />
+          <option value="float.isnumeric" />
+          <option value="float.isascii" />
+          <option value="float.isdecimal" />
+          <option value="float.isidentifier" />
+          <option value="int.isnumeric" />
+          <option value="int.isalpha" />
+          <option value="int.isalnum" />
+          <option value="int.isascii" />
+          <option value="int.islower" />
+          <option value="emoji.emojize" />
+          <option value="list.find" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
